@@ -1,2 +1,2 @@
-# Depression-Detector-Using-Social-Media-
-An ML Model for Detecting Depression using Social Media
+# Depression-detection-using-Social-Media-Analysis
+A model which predicts depression level by analyzing social media data. 
